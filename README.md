@@ -36,7 +36,7 @@
   
   ![alt](https://github.com/tiep2999/dictionaryTest/blob/master/as/login-up.jpg?raw=true)
   
-  - Trang cá nhân người dùng: thông tin cá nhân ,danh sách truyện đã đọc.
+  - Trang cá nhân người dùng: thông tin cá nhân ,danh sách truyện đã đọc, yêu thích,...
   
   ![alt](https://github.com/tiep2999/dictionaryTest/blob/master/user.jpg?raw=true)
   
