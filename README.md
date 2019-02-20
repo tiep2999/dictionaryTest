@@ -1,5 +1,5 @@
 
-#Nhóm 20
+### Nhóm 20
 
 **Thành viên nhóm:**
 
@@ -9,7 +9,8 @@
   
   - Phạm Duy Tiếp.
 
-**Bài tập nhóm tuần 1**
+
+***Bài tập nhóm tuần 1***
 
 **Tên phần mềm:** Web đọc truyện online.
 
