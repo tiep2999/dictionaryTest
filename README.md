@@ -31,10 +31,10 @@
   
   - Trang đăng nhập, đăng kí.
   
-  ![alt](https://github.com/tiep2999/dictionaryTest/blob/master/login-up.jpg?raw=true)
+  ![alt](https://github.com/tiep2999/dictionaryTest/blob/master/user.jpg?raw=true)
   
   - Trang cá nhân người dùng: thông tin cá nhân ,danh sách truyện đã đọc.
   
-  https://github.com/tiep2999/dictionaryTest/blob/master/user.jpg?raw=true
+  ![alt](https://github.com/tiep2999/dictionaryTest/blob/master/user.jpg?raw=true)
   
   *Sẽ có cải tiến và cập nhật thêm chức năng.*
