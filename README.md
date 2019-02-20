@@ -34,7 +34,7 @@
   
   - Trang đăng nhập, đăng kí.
   
-  ![alt](https://github.com/tiep2999/dictionaryTest/blob/master/user.jpg?raw=true)
+  ![alt](https://github.com/tiep2999/dictionaryTest/blob/master/as/login-up.jpg?raw=true)
   
   - Trang cá nhân người dùng: thông tin cá nhân ,danh sách truyện đã đọc.
   
