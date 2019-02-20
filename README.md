@@ -19,7 +19,7 @@
 
 **Các màn hình:** 
   - Trang chủ: thanh công cụ tìm kiếm,menu thể loại, đăng nhập tài khoản, danh sách truyện mới cập nhật chia theo từng thể loại.
-  ![alt](https://i.imgur.com/sQUPmue.png)
+  ![alt]()
   - Các trang chứa từng thể loại truyện: chia theo thể loại, lứa tuổi, mới nhất, top đọc nhiều.
   - Trang cá nhân người dùng: thông tin cá nhân ,danh sách truyện đã đọc.
   - Trang đăng nhập, đăng kí.
