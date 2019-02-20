@@ -5,9 +5,9 @@
 
   - Phạm Văn Hùng.
   
-  - Phạm Duy Tiếp.
-  
   - Nguyễn Đắc Phong.
+  
+  - Phạm Duy Tiếp.
 
 **Bài tập nhóm tuần 1**
 
@@ -16,6 +16,7 @@
 **Người dùng:** Tất cả lứa tuổi, thích đọc truyện.
 
 **Mô tả:** Web đọc truyện tranh online với nhiều thể loại dành cho nhiều lứa tuổi.
+
 **Các chức năng**
 
   - Đăng kí, đăng nhập tài khoản.
@@ -25,6 +26,7 @@
   - Liên hệ với admin trang web. 
 
 **Các màn hình:** 
+
   - Trang chủ: thanh công cụ tìm kiếm,menu thể loại, đăng nhập tài khoản, danh sách truyện mới cập nhật chia theo từng thể loại.
   
   ![alt](https://raw.githubusercontent.com/tiep2999/dictionaryTest/master/home.jpg)
@@ -37,4 +39,8 @@
   
   ![alt](https://github.com/tiep2999/dictionaryTest/blob/master/user.jpg?raw=true)
   
-  *Sẽ có cải tiến và cập nhật thêm chức năng.*
+ **Công nghệ sử dụng:** *sẽ cập nhật sau.*
+ 
+ **Liên lạc giữa các thành viên nhóm:** Facebook, Messenger
+ 
+  *Có cải tiến và cập nhật thêm chức năng.*
